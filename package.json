@@ -1,0 +1,19 @@
+{
+  "name": "meaningless",
+  "version": "1.0.0",
+  "description": "Write meaningful JavaScript by using real life words like yes/no, on/off instead of booleans",
+  "main": "meaningless.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamalanwar/meaningless.git"
+  },
+  "author": "Tamal Anwar <tamal@tamalanwar.com> (https://tamalweb.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tamalanwar/meaningless/issues"
+  },
+  "homepage": "https://github.com/tamalanwar/meaningless#readme"
+}
